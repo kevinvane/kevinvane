@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/19970d10c7cbfec725fd16dd83e5d813caed4203/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/19970d10c7cbfec725fd16dd83e5d813caed4203/topics/android-studio/android-studio.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/19970d10c7cbfec725fd16dd83e5d813caed4203/topics/jetpack-compose/jetpack-compose.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/19970d10c7cbfec725fd16dd83e5d813caed4203/topics/flutter/flutter.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/19970d10c7cbfec725fd16dd83e5d813caed4203/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/19970d10c7cbfec725fd16dd83e5d813caed4203/topics/spring-boot/spring-boot.png"></code>
